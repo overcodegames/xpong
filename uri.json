@@ -1,0 +1,11 @@
+{
+  "name": "Xi Jinpong",
+  "symbol": "XPONG",
+  "description": "Xi Jinpong",
+  "image": "https://raw.githubusercontent.com/overcodegames/xpong/main/xpong.png",
+  "extensions": {
+    "website": "https://www.xijinpong.top",
+    "twitter": "https://twitter.com/xijinpongcoin",
+    "telegram": ""
+  }
+}
